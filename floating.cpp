@@ -1,8 +1,6 @@
 #include <iostream>
 using namespace std;
 
-int exit();
-
 double userInput()
 {
 	double fpInput;
